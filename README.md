@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hey there!  👋
 
 <!--
 **Poshini/Poshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
     
-  🌱 Let's talk about Networking and Security.                     
+  🌱 Let's talk about Networking and Cyber Security.                     
   👯 I’m looking to collaborate on Big Data Projects.                             
   💬 Ask me why aliens exist and how to be friends with them.                 
   📫 You can find me amidst the stars on cloud nine...                        
