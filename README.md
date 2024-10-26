@@ -3,8 +3,7 @@
 <!--       
 **Poshini/Poshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
     
-  🌱 Let's talk about Data analytics and Applications.                     
-  👯 I’m looking to collaborate on Full stack development and security projects.                             
+  🌱 Let's talk about Data analytics and Applications.                                                 
   💬 Ask me why aliens exist and how to be friends with them.                 
   📫 You can find me amidst the stars on cloud nine...                         
   😄 Pluviophile🌧️                                                                              
