@@ -4,6 +4,7 @@
 **Poshini/Poshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
     
   🌱 Turning data into decisions, apps into experiences, and LLMs into teammates
+  
   💬 Happy to chat about data, problem-solving, and ideas that scale.                                                                                                              
   ⚡ Fun fact: Most AI models don’t “think”—they’re just extremely good at guessing what comes next.😂 
    
